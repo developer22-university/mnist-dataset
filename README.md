@@ -1,4 +1,4 @@
-# mnist-dataset
+#MNIST handwritten digit recognition
 MNIST handwritten digit recognition problem and deep learning models developed in Python using the Keras library that are capable of achieving excellent results.
 
 Working Steps:
